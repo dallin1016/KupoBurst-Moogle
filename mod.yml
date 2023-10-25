@@ -1,0 +1,28 @@
+title: Kupoburst
+originalAuthor: dallin1016
+description: 'Changes Moogles to Kupoburst, a Bomb-Headed Moogle OC made by Finnekesburst'
+assets:
+- name: obj/N_EX640_MOOGLE_RTN.mdlx
+  method: copy
+  source:
+  - name: obj/N_EX640_MOOGLE_RTN.mdlx
+- name: obj/N_EX640_SHOP_RTN.mdlx
+  method: copy
+  source:
+  - name: obj/N_EX640_SHOP_RTN.mdlx
+- name: remastered/obj/N_EX640_MOOGLE_RTN.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/N_EX640_MOOGLE_RTN.mdlx/-0.dds
+- name: remastered/obj/N_EX640_MOOGLE_RTN.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/N_EX640_MOOGLE_RTN.mdlx/-1.dds
+- name: remastered/obj/N_EX640_SHOP_RTN.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/N_EX640_SHOP_RTN.mdlx/-0.dds
+- name: remastered/obj/N_EX640_SHOP_RTN.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/N_EX640_SHOP_RTN.mdlx/-1.dds
