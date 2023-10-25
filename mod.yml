@@ -10,6 +10,18 @@ assets:
   method: copy
   source:
   - name: obj/N_EX640_SHOP_RTN.mdlx
+- name: obj/SHOP_POINT_SUB.mdlx
+  method: copy
+  source:
+  - name: obj/SHOP_POINT_SUB.mdlx
+- name: obj/SHOP_POINT.mdlx
+  method: copy
+  source:
+  - name: obj/SHOP_POINT.mdlx
+- name: obj/SHOP_POINT_LOW.mdlx
+  method: copy
+  source:
+  - name: obj/SHOP_POINT_LOW.mdlx
 - name: remastered/obj/N_EX640_MOOGLE_RTN.mdlx/-0.dds
   method: copy
   source:
@@ -26,3 +38,43 @@ assets:
   method: copy
   source:
   - name: remastered/obj/N_EX640_SHOP_RTN.mdlx/-1.dds
+- name: remastered/obj/SHOP_POINT_SUB.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/SHOP_POINT_SUB.mdlx/-0.dds
+- name: remastered/obj/SHOP_POINT_SUB.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/SHOP_POINT_SUB.mdlx/-1.dds
+- name: remastered/obj/SHOP_POINT.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/SHOP_POINT.mdlx/-1.dds
+- name: remastered/obj/SHOP_POINT.mdlx/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/SHOP_POINT.mdlx/-2.dds
+- name: remastered/obj/SHOP_POINT.mdlx/-3.dds
+  method: copy
+  source:
+  - name: remastered/obj/SHOP_POINT.mdlx/-3.dds
+- name: remastered/obj/SHOP_POINT.mdlx/-4.dds
+  method: copy
+  source:
+  - name: remastered/obj/SHOP_POINT.mdlx/-4.dds
+- name: remastered/obj/SHOP_POINT_LOW.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/SHOP_POINT_LOW.mdlx/-1.dds
+- name: remastered/obj/SHOP_POINT_LOW.mdlx/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/SHOP_POINT_LOW.mdlx/-2.dds
+- name: remastered/obj/SHOP_POINT_LOW.mdlx/-3.dds
+  method: copy
+  source:
+  - name: remastered/obj/SHOP_POINT_LOW.mdlx/-3.dds
+- name: remastered/obj/SHOP_POINT_LOW.mdlx/-4.dds
+  method: copy
+  source:
+  - name: remastered/obj/SHOP_POINT_LOW.mdlx/-4.dds
